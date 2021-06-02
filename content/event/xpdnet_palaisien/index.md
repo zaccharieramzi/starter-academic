@@ -6,7 +6,7 @@ event_url: https://sites.google.com/view/med-neurips-2020
 
 location: Online
 
-summary: A presentation of my network for MRI reconstruction: the XPDNet.
+summary: "A presentation of my network for MRI reconstruction: the XPDNet."
 abstract: "In classical Magnetic Resonance Imaging reconstruction, slow iterative non-linear algorithms using manually crafted priors are applied to obtain the anatomical image from under-sampled Fourier measurements. In addition they have to deal with an incomplete knowledge of the exact measurement operator. Deep Learning methods, and in particular, unrolled networks, have allowed to alleviate those issues. In this talk we will see how Deep Learning enables us to: i) learn an optimal optimization scheme, ii) learn a prior from the data and iii) learn how to refine our knowledge of the measurements operator. We show the results of this approach on the fastMRI 2020 brain reconstruction challenge where we secured the 2nd spot in both the 4x and 8x acceleration tracks."
 
 # Talk start and end times.
