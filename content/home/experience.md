@@ -43,9 +43,9 @@ experience:
     date_start: '2017-10-10'
     date_end: '2018-12-25'
     description: |2-
-          * Built data pipelines for smartphone and wearable data.
-          * Modeled, implemented, deployed and maintained ad-hoc machine learning models for human activity detection.
-          * Presented research results to technical and non-technical teams.
+        * Built data pipelines for smartphone and wearable data.
+        * Modeled, implemented, deployed and maintained ad-hoc machine learning models for human activity detection.
+        * Presented research results to technical and non-technical teams.
 
   - title: Research Intern
     company: BioSerenity
@@ -54,7 +54,7 @@ experience:
     date_start: '2017-04-01'
     date_end: '2017-08-01'
     description: |2-
-          * Benchmarked and implemented deep learning algorithms for epilepsy detection in EEG signals.
+        * Benchmarked and implemented deep learning algorithms for epilepsy detection in EEG signals.
 
   - title: Data engineer and Data science Intern
     company: Celmatix
@@ -63,8 +63,8 @@ experience:
     date_start: '2016-03-13'
     date_end: '2016-09-01'
     description: |2-
-          * Implemented and maintained data pipelines for litterature meta-analysis.
-          * Developped a blood hormone level model.
+        * Implemented and maintained data pipelines for litterature meta-analysis.
+        * Developped a blood hormone level model.
 
   - title: Data science Intern
     company: Ekimetrics
@@ -73,8 +73,8 @@ experience:
     date_start: '2015-08-24'
     date_end: '2016-02-23'
     description: |2-
-          * Developped the full stack for web applications.
-          * Performed data analysis on the use of these web applications as well as on social media data.
+        * Developped the full stack for web applications.
+        * Performed data analysis on the use of these web applications as well as on social media data.
 
 design:
   columns: '2'
