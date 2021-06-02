@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 100
+weight: 99
 title: Courses
 
 ---
