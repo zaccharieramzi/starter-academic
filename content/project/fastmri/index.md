@@ -5,15 +5,20 @@ tags:
 - TensorFlow
 - Challenges
 - MRI
+- Deep Learning
 date: "2020-10-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+image:
+  caption: Courtesy of fastmri.org
+  focal_point: Smart
+
 url_code: "https://github.com/zaccharieramzi/fastmri-reproducible-benchmark"
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://docs.google.com/presentation/d/1vfhNcsAXI4QqfehYjVxaQ4H3GuanFy1jUg8Od5JcEOQ/edit?usp=sharing"
+url_video: "https://slideslive.com/38942421/xpdnet-for-brain-multicoil-mri-reconstruction"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
