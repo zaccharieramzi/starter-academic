@@ -26,6 +26,7 @@ interests:
 - Computer Vision
 - Deep Learning
 - AI for Healthcare
+- Open Source
 
 # Education to show in About widget
 education:
