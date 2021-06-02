@@ -38,7 +38,6 @@ experience:
   - title: Data Scientist
     company: xbird
     company_url: 'https://xbird.io/'
-    # company_logo: org-x
     location: Berlin, Germany
     date_start: '2017-10-10'
     date_end: '2018-12-25'
