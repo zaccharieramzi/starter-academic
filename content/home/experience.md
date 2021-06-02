@@ -32,7 +32,7 @@ experience:
         * Designed and implemented new models for MRI reconstruction which allowed to me to secure the [**2nd spot in the fastMRI 2020 reconstruction challenge**](https://fastmri.org/leaderboards/challenge/) organized by Facebook and NYU. This result was featured in 2 articles in the specialized press ([CEA mag'](https://www.cea.fr/presse/Pages/actualites-communiques/sante-sciences-du-vivant/innovations-technologiques-IRM.aspx) and [Contact](https://issuu.com/ska_telescope/docs/contact_7_-_ska_magazine__pages_)).
         * Used the [public HPC Jean Zay](http://www.idris.fr/) for training neural networks in a distributed fashion. Also participated in creating a [user's collaborative documentation](https://jean-zay-doc.readthedocs.io/en/latest/).
         * Was the co-founder of and animated a lecture group focused on Deep Learning for students at Neurospin.
-        * Co-supervised 2 interns: Sophie Starck on the topic of GANs for reconstruction, and Kevin Michalewicz on the follow-up of my work on Learnlets.
+        * Co-supervised 2 interns: [Sophie Starck](https://www.cosmostat.org/people/sophie-starck) on the topic of GANs for reconstruction, and [Kevin Michalewicz](https://www.cosmostat.org/people/kevin-michalewicz) on the follow-up of my work on Learnlets.
         * Peer-reviewed submissions for a number of scientific conferences and journals.
 
   - title: Data Scientist
