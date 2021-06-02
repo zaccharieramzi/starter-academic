@@ -19,6 +19,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Courses
+    url: '#courses'
+    weight: 53
+  - name: Reviews
+    url: '#reviews'
+    weight: 57
   - name: Contact
     url: '#contact'
     weight: 60
