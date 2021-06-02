@@ -61,12 +61,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/zaccharie-ramzi-043476a5/
 - icon: stack-overflow
-  icon_pack: fas
+  icon_pack: fab
   link: https://stackoverflow.com/users/4332585/zaccharie-ramzi
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
