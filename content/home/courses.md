@@ -1,10 +1,9 @@
 ---
+widget: blank
+headless: true
+weight: 100
 title: Courses
-type: page
 
-header:
-  caption: ""
-  image: ""
 ---
 
 I gave the following courses:
