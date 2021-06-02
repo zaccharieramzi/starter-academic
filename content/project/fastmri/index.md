@@ -31,3 +31,7 @@ After implementing the XPDNet, I decided to take part in the 2020 edition of the
 I was able to present my work at the NeurIPS 2020 Medical Imaging Workshop, and my work has been featured in 2 specialized press articles.
 
 I was really happy of this result, given I was alone working on this project, and did chose to make my work open (which is not the case of the winners).
+
+I am also really happy that [the associated code](https://github.com/zaccharieramzi/fastmri-reproducible-benchmark) is being used so much.
+In particular, I received a lot of comments/mails from students using it and finding it very helpful for their work.
+It is also the 2nd most starred repo for the "fastmri" tag on GitHub after [the official fastMRI repo](https://github.com/facebookresearch/fastMRI) (see [here](https://github.com/topics/fastmri)).
