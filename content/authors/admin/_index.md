@@ -66,7 +66,7 @@ social:
   link: https://stackoverflow.com/users/4332585/zaccharie-ramzi
 - icon: cv
   icon_pack: ai
-  link: static/upload/resume.pdf
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +78,4 @@ highlight_name: true
 Zaccharie Ramzi is a PhD student working on designing Deep Learning models for MRI reconstruction. He has a double affiliation at CEA and Inria, and works in 3 teams, Neurospin and Cosmostat both at CEA, and Parietal at Inria.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
