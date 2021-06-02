@@ -33,6 +33,8 @@ content:
     tag: TensorFlow
   - name: MRI
     tag: MRI
+  - name: Challenges
+    tag: Challenges
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
