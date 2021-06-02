@@ -30,15 +30,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Artificial Intelligence (prepared)
+    institution: CEA & Inria
+    year: 2022
+  - course: MSc in Mathematics, Vision and Machine Learning (MVA)
+    institution: Ecole Normale Superieure Paris-Saclay
+    year: 2017
+  - course: Engineering Diploma
+    institution: Telecom ParisTech
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
