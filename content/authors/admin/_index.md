@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-Zaccharie Ramzi is a PhD student working on designing Deep Learning models for MRI reconstruction. He has a double affiliation at CEA and Inria, and works in 3 teams, Neurospin and Cosmostat both at CEA and Parietal at Inria.
+Zaccharie Ramzi is a PhD student working on designing Deep Learning models for MRI reconstruction. He has a double affiliation at CEA and Inria, and works in 3 teams, Neurospin and Cosmostat both at CEA, and Parietal at Inria.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
