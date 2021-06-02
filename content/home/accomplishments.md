@@ -13,6 +13,8 @@ weight: 50
 title: 'Accomplish&shy;ments'
 subtitle:
 
+active: False
+
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -49,5 +51,5 @@ item:
   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
