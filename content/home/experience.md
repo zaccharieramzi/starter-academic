@@ -69,6 +69,7 @@ experience:
   - title: Data science Intern
     company: Ekimetrics
     company_url: 'https://ekimetrics.com/'
+    company_logo: ekimetrics_logo
     location: Paris, France
     date_start: '2015-08-24'
     date_end: '2016-02-23'
