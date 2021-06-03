@@ -7,5 +7,5 @@ publication_types: ["1"]
 abstract: "We perform a qualitative analysis of performance of XPDNet, a state-of-the-art deep learning approach for MRI reconstruction, compared to GRAPPA, a classical approach. We do this in multiple settings, in particular testing the robustness of the XPDNet to unseen settings, and show that the XPDNet can to some degree generalize well. 2 Main findings XPDNet, a state-of-the-art deep learning approach for MRI reconstruction, can generalize well when compared to GRAPPA on unseen settings."
 featured: false
 publication: "*ISMRM*"
+url_pdf: "https://arxiv.org/abs/2106.00753"
 ---
-
