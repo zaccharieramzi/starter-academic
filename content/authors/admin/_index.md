@@ -10,8 +10,8 @@ role: PhD student in Deep Learning for MRI reconstruction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Neurospin
-  url: https://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/NeuroSpin.aspx
+- name: NeuroSpin
+  url: https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx
 - name: Parietal - Inria
   url: https://team.inria.fr/parietal/
 - name: Cosmostat
@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student working on designing Deep Learning models for MRI reconstruction. I work in 3 teams: Parietal (Inria), Neurospin and Cosmostat (CEA).
+I am a PhD student working on designing Deep Learning models for MRI reconstruction. I work in 3 teams: Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -30,7 +30,7 @@ experience:
     description: |2-
         * Designed and implemented new models for MRI reconstruction which allowed to me to secure the [**2nd spot in the fastMRI 2020 reconstruction challenge**](https://fastmri.org/leaderboards/challenge/) organized by Facebook and NYU. This was featured in 2 articles in the specialized press ([CEA mag'](https://www.cea.fr/presse/Pages/actualites-communiques/sante-sciences-du-vivant/innovations-technologiques-IRM.aspx) and [Contact](https://issuu.com/ska_telescope/docs/contact_7_-_ska_magazine__pages_)).
         * Used the [public HPC Jean Zay](http://www.idris.fr/) for training neural networks in a distributed fashion with up to 8 nodes totalling 32 GPUs while working on 1Tb of MRI data. Co-created a [user's collaborative documentation](https://jean-zay-doc.readthedocs.io/en/latest/).
-        * Co-founded a lecture group focused on Deep Learning for students at Neurospin.
+        * Co-founded a lecture group focused on Deep Learning for students at NeuroSpin.
         * Analyzed and benchmarked the state-of-the-art in Deep Learning for MRI reconstruction.
         * Published 11 papers/abstracts in international peer-reviewed conferences/workshops/journals.
         * Co-supervised 2 interns: [Sophie Starck](https://www.cosmostat.org/people/sophie-starck) on the topic of GANs for reconstruction, and [Kevin Michalewicz](https://www.cosmostat.org/people/kevin-michalewicz) on the follow-up of my work on Learnlets.
@@ -64,7 +64,7 @@ experience:
     date_end: '2016-09-01'
     description: |2-
         * Implemented and maintained data pipelines for litterature meta-analysis.
-        * Developped a blood hormone level model.
+        * Developed a blood hormone level model.
 
   - title: Data science Intern
     company: Ekimetrics
@@ -73,7 +73,7 @@ experience:
     date_start: '2015-08-24'
     date_end: '2016-02-23'
     description: |2-
-        * Developped the full stack for web applications.
+        * Developed the full stack for web applications.
         * Performed data analysis on the use of these web applications as well as on social media data.
 
 design:
