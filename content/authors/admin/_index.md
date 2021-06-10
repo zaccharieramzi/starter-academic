@@ -78,4 +78,4 @@ highlight_name: true
 I am a PhD student working on designing Deep Learning models for MRI reconstruction. I work in 3 teams: Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
