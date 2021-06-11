@@ -63,7 +63,7 @@ experience:
     date_start: '2016-03-13'
     date_end: '2016-09-01'
     description: |2-
-        * Implemented and maintained data pipelines for litterature meta-analysis.
+        * Implemented and maintained data pipelines for literature meta-analysis.
         * Developed a blood hormone level model.
 
   - title: Data science Intern
