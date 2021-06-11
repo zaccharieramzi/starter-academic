@@ -10,11 +10,11 @@ role: PhD student in Deep Learning for MRI reconstruction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: NeuroSpin
+- name: NeuroSpin - CEA
   url: https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx
 - name: Parietal - Inria
   url: https://team.inria.fr/parietal/
-- name: Cosmostat
+- name: Cosmostat - CEA
   url: http://www.cosmostat.org/
 
 # Short bio (displayed in user profile at end of posts)
