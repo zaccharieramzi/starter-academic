@@ -29,7 +29,7 @@ experience:
     date_end: ''
     description: |2-
         * Designed and implemented new models for MRI reconstruction which allowed to me to secure the [**2nd spot in the fastMRI 2020 reconstruction challenge**](https://fastmri.org/leaderboards/challenge/) organized by Facebook and NYU. This was featured in 2 articles in the specialized press ([CEA mag'](https://www.cea.fr/presse/Pages/actualites-communiques/sante-sciences-du-vivant/innovations-technologiques-IRM.aspx) and [Contact](https://issuu.com/ska_telescope/docs/contact_7_-_ska_magazine__pages_)).
-        * Used the [public HPC Jean Zay](http://www.idris.fr/) for training neural networks in a distributed fashion with up to 8 nodes totalling 32 GPUs while working on 1Tb of MRI data. Co-created a [user's collaborative documentation](https://jean-zay-doc.readthedocs.io/en/latest/).
+        * Used the [public HPC Jean Zay](http://www.idris.fr/) to train neural networks in a distributed fashion with up to 8 nodes totalling 32 GPUs while working on 1Tb of MRI data. Co-created a [user's collaborative documentation](https://jean-zay-doc.readthedocs.io/en/latest/).
         * Co-founded a lecture group focused on Deep Learning for students at NeuroSpin.
         * Analyzed and benchmarked the state-of-the-art in Deep Learning for MRI reconstruction.
         * Published 11 papers/abstracts in international peer-reviewed conferences/workshops/journals.
@@ -44,7 +44,7 @@ experience:
     date_end: '2018-12-25'
     description: |2-
         * Built data pipelines for smartphone and wearable data.
-        * Modeled, implemented, deployed and maintained ad-hoc machine learning models for human activity detection.
+        * Designed, implemented, deployed and maintained ad-hoc machine learning models for human activity detection.
         * Presented research results to technical and non-technical teams.
 
   - title: Research Intern
@@ -63,7 +63,7 @@ experience:
     date_start: '2016-03-13'
     date_end: '2016-09-01'
     description: |2-
-        * Implemented and maintained data pipelines for literature meta-analysis.
+        * Implemented and maintained data pipelines for genomic literature meta-analysis.
         * Developed a blood hormone level model.
 
   - title: Data science Intern
@@ -73,8 +73,8 @@ experience:
     date_start: '2015-08-24'
     date_end: '2016-02-23'
     description: |2-
-        * Developed the full stack for web applications.
-        * Performed data analysis on the use of these web applications as well as on social media data.
+        * Developed the full stack of web applications.
+        * Performed data analysis on the use of these web applications, as well as on social media data.
 
 design:
   columns: '2'
