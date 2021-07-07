@@ -11,8 +11,8 @@ abstract: "In classical Magnetic Resonance Imaging reconstruction, slow iterativ
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-5T09:30:00Z"
-date_end: "2021-07-5T10:30:00Z"
+date: "2021-07-05T09:30:00Z"
+date_end: "2021-07-05T10:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
