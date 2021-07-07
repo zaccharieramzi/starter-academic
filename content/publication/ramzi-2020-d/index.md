@@ -1,12 +1,12 @@
 ---
-title: "XPDNet for MRI Reconstruction: an Application to the fastMRI 2020 Brain Challenge"
-date: 2020-01-01
-publishDate: 2021-06-02T11:05:57.994863Z
+title: "XPDNet for MRI Reconstruction: an application to the 2020 fastMRI challenge"
+date: 2021-01-01
+publishDate: 2021-07-07T09:12:08.107046Z
 authors: ["Zaccharie Ramzi", "Philippe Ciuciu", "Jean-Luc Starck"]
-publication_types: ["4"]
-abstract: "We present a modular cross-domain neural network the XPDNet and its application to the MRI reconstruction task. This approach consists in unrolling the PDHG algorithm as well as learning the acceleration scheme between steps. We also adopt state-of-the-art techniques specific to Deep Learning for MRI reconstruction. At the time of writing, this approach is the best performer in PSNR on the fastMRI leaderboards for both knee and brain at acceleration factor 4."
+publication_types: ["1"]
+abstract: "We present a new neural network, the XPDNet, for MRI reconstruction from periodically under-sampled multi-coil data. We inform the design of this network by taking best practices from MRI reconstruction and computer vision. We show that this network can achieve state-of-the-art reconstruction results, as shown by its ranking of second in the fastMRI 2020 challenge."
 featured: false
-publication: ""
+publication: "*ISMRM*"
 url_pdf: "http://arxiv.org/abs/2010.07290"
 ---
 
