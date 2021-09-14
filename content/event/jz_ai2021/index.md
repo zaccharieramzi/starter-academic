@@ -25,7 +25,7 @@ tags: [Deep Learning]
 featured: false
 
 url_code: "https://github.com/zaccharieramzi/submission-scripts"
-url_pdf: ""
+url_pdf: "https://indico.ijclab.in2p3.fr/event/7326/attachments/17063/22257/5.Zaccharie-Ramzi_AI-ParisSaclay_Sep2021.pdf"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=gzVi9ak4kuw"
 
