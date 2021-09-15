@@ -34,7 +34,7 @@ experience:
         * Analyzed and benchmarked the state-of-the-art in Deep Learning for MRI reconstruction.
         * Published 11 papers/abstracts in international peer-reviewed conferences/workshops/journals.
         * Co-supervised 2 interns: [Sophie Starck](https://www.cosmostat.org/people/sophie-starck) on the topic of GANs for reconstruction, and [Kevin Michalewicz](https://www.cosmostat.org/people/kevin-michalewicz) on the follow-up of my work on Learnlets.
-        * Peer-reviewed 17 submissions for scientific conferences and journals.
+        * Peer-reviewed 19 submissions for scientific conferences and journals.
 
   - title: Data Scientist
     company: xbird

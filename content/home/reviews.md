@@ -17,3 +17,5 @@ I have peer-reviewed for the following journals:
   - [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852) (1 Research Paper)
   - [Computers in Biology and Medecine](https://www.journals.elsevier.com/computers-in-biology-and-medicine) (1 Research Paper)
   - [NeuroImage](https://www.journals.elsevier.com/neuroimage) (1 Research Paper)
+  - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (1 Research Paper)
+  - [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) (1 Research Paper)
