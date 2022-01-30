@@ -1,6 +1,6 @@
 @unpublished{Chaithya2021,
 abstract = {Compressed sensing (CS) in Magnetic resonance Imaging (MRI) essentially involves the optimization of 1) the sampling pattern in k-space under MR hardware constraints and 2) image reconstruction from the undersampled k-space data. Recently, deep learning methods have allowed the community to address both problems simultaneously, especially in the non-Cartesian acquisition setting. This paper aims to contribute to this field by tackling some major concerns in existing approaches. Regarding the learning of the sampling pattern, we perform ablation studies using parameter-free reconstructions like the density compensated (DCp) adjoint operator of the nonuniform fast Fourier transform (NUFFT) to ensure that the learned k-space trajectories actually sample the center of k-space densely. Additionally we optimize these trajectories by embedding a projected gradient descent algorithm over the hardware MR constraints. Later, we introduce a novel hybrid learning approach that operates across multiple resolutions to jointly optimize the reconstruction network and the k-space trajectory and present improved image reconstruction quality at 20-fold acceleration factor on T1 and T2-weighted images on the fastMRI dataset with SSIM scores of nearly 0.92-0.95 in our retrospective studies.},
-author = {Chaithya, G R and Ramzi, Zaccharie and Ciuciu, Philippe},
+author = {G R, Chaithya and Ramzi, Zaccharie and Ciuciu, Philippe},
 mendeley-groups = {Deep Learning, MRI},
 title = {{Hybrid learning of Non-Cartesian k-space trajectory and MR image reconstruction networks}},
 url = {https://hal.inria.fr/hal-03394881},
@@ -17,7 +17,7 @@ Moreover, we conduct some generalizability experiments to test this network in o
 The results show that NC-PDNet outperforms baseline (U-Net, Deep image prior) models both visually and quantitatively in all settings.
 In particular, in the 2D multi-coil acquisition scenario, the NC-PDNet provides up to a 1.2dB improvement in peak signal-to-noise ratio (PSNR) over baseline networks, while also allowing a gain of at least 1dB in PSNR in generalization settings.
 We provide the open-source implementation of NC-PDNet, and in particular the Non-uniform Fourier Transform in TensorFlow, tested on 2D multi-coil and 3D single-coil k-space data.},
-author = {Ramzi, Zaccharie and Starck, Jean-Luc and Chaithya, G R and Ciuciu, Philippe},
+author = {Ramzi, Zaccharie and Starck, Jean-Luc and G R, Chaithya and Ciuciu, Philippe},
 file = {:home/zaccharie/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Ramzi et al. - 2021 - NC-PDNet a Density-Compensated Unrolled Network for 2D and 3D non-Cartesian MRI Reconstruction a Density-Compensat.pdf:pdf},
 title = {{NC-PDNet: a Density-Compensated Unrolled Network for 2D and 3D non-Cartesian MRI Reconstruction}},
 url = {https://hal.inria.fr/hal-03188997},
@@ -26,7 +26,7 @@ note = {Accepted for publication at IEEE Transactions on Medical Imaging},
 }
 @article{Farrens2020,
 abstract = {{\textcopyright} 2020 Elsevier B.V. We present the open-source image processing software package PySAP (Python Sparse data Analysis Package) developed for the COmpressed Sensing for Magnetic resonance Imaging and Cosmology (COSMIC) project. This package provides a set of flexible tools that can be applied to a variety of compressed sensing and image reconstruction problems in various research domains. In particular, PySAP offers fast wavelet transforms and a range of integrated optimisation algorithms. In this paper we present the features available in PySAP and provide practical demonstrations on astrophysical and magnetic resonance imaging data.},
-author = {Farrens, S. and Grigis, A. and {El Gueddari}, L. and Ramzi, Z. and Chaithya, G R and Starck, S. and Sarthou, B. and Cherkaoui, H. and Ciuciu, P. and Starck, J.-L.},
+author = {Farrens, S. and Grigis, A. and {El Gueddari}, L. and Ramzi, Z. and G R, Chaithya and Starck, S. and Sarthou, B. and Cherkaoui, H. and Ciuciu, P. and Starck, J.-L.},
 doi = {10.1016/j.ascom.2020.100402},
 issn = {22131337},
 journal = {Astronomy and Computing},
@@ -117,7 +117,7 @@ year = {2020}
 }
 @unpublished{GR2021,
 abstract = {The SPARKLING algorithm was originally developed for accelerated 2D magnetic resonance imaging (MRI) in the compressed sensing (CS) context. It yields non-Cartesian sampling trajectories that jointly fulfill a target sampling density while each individual trajectory complies with MR hardware constraints. However, the two main limitations of SPARKLING are first that the optimal target sampling density is unknown and thus a user-defined parameter and second that this sampling pattern generation remains disconnected from MR image reconstruction thus from the optimization of image quality. Recently, data-driven learning schemes such as LOUPE have been proposed to learn a discrete sampling pattern, by jointly optimizing the whole pipeline from data acquisition to image reconstruction. In this work, we merge these methods with a state-of-the-art deep neural network for image reconstruction, called XPDNet, to learn the optimal target sampling density. Next, this density is used as input parameter to SPARKLING to obtain 20x accelerated non-Cartesian trajectories. These trajectories are tested on retrospective compressed sensing (CS) studies and show superior performance in terms of image quality with both deep learning (DL) and conventional CS reconstruction schemes.},
-author = {Chaithya, G R and Ramzi, Zaccharie and Ciuciu, Philippe},
+author = {G R, Chaithya and Ramzi, Zaccharie and Ciuciu, Philippe},
 keywords = {Compressed Sensing,Index Terms-non-Cartesian trajectories,MRI,reconstruction networks},
 title = {{Learning the sampling density in 2D SPARKLING MRI acquisition for optimized image reconstruction}},
 url = {https://hal.inria.fr/hal-03158831v2},
