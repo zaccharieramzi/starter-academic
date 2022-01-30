@@ -2,7 +2,7 @@
 title: "Benchmarking proximal methods acceleration enhancements for CS-acquired MR image analysis reconstruction"
 date: 2019-01-01
 publishDate: 2021-06-02T11:05:57.983088Z
-authors: ["Zaccharie Ramzi", "Philippe Ciuciu", "Jean-Luc Starck", "Jean-Luc Starck Benchmarking"]
+authors: ["Zaccharie Ramzi", "Philippe Ciuciu", "Jean-Luc Starck"]
 publication_types: ["1"]
 abstract: ""
 featured: false
