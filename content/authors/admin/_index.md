@@ -18,9 +18,9 @@ organizations:
   url: http://www.cosmostat.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoc Researcher interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
+bio: "I am a Postdoc Researcher interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
 
-I did my PhD under the supervision of [Philippe Ciuciu](https://philippeciuciu.fr/) and [Jean-Luc Starck](http://jstarck.cosmostat.org/) at [NeuroSpin](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [Inria - Parietal](https://team.inria.fr/parietal/) and [Cosmostat](http://www.cosmostat.org/).
+I did my PhD under the supervision of [Philippe Ciuciu](https://philippeciuciu.fr/) and [Jean-Luc Starck](http://jstarck.cosmostat.org/) at [NeuroSpin](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [Inria - Parietal](https://team.inria.fr/parietal/) and [Cosmostat](http://www.cosmostat.org/)."
 
 # Interests to show in About widget
 interests:
