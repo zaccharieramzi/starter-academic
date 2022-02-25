@@ -26,7 +26,7 @@ experience:
     company: CEA & Inria
     location: Paris, France
     date_start: '2019-02-12'
-    date_end: ''
+    date_end: '2022-02-18'
     description: |2-
         * Designed and implemented new models for MRI reconstruction which allowed to me to secure the [**2nd spot in the fastMRI 2020 reconstruction challenge**](https://fastmri.org/leaderboards/challenge/) organized by Facebook and NYU. This was featured in 2 articles in the specialized press ([CEA mag'](https://www.cea.fr/presse/Pages/actualites-communiques/sante-sciences-du-vivant/innovations-technologiques-IRM.aspx) and [Contact](https://issuu.com/ska_telescope/docs/contact_7_-_ska_magazine__pages_)).
         * Used the [public HPC Jean Zay](http://www.idris.fr/) to train neural networks in a distributed fashion with up to 8 nodes totalling 32 GPUs while working on 1Tb of MRI data. Co-created a [user's collaborative documentation](https://jean-zay-doc.readthedocs.io/en/latest/).
