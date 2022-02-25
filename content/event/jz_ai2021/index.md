@@ -7,7 +7,7 @@ event_url: https://indico.ijclab.in2p3.fr/event/7326/
 location: Online
 
 summary: A presentation of my personal experience with the Jean Zay supercomputer.
-abstract: "eep Learning (DL) has become the main research avenue in many computational fields, and MRI follows this trend. However, training and evaluating DL models requires huge amounts of expensive computing resources. In an effort to mutualize these resources for researchers in France, GENCI has developed Jean Zay, a supercomputer installed at IDRIS (CNRS, Orsay). In this presentation, we will discuss some broad aspects of Jean Zay for computational scientists and illustrate them with a personal journey."
+abstract: "Deep Learning (DL) has become the main research avenue in many computational fields, and MRI follows this trend. However, training and evaluating DL models requires huge amounts of expensive computing resources. In an effort to mutualize these resources for researchers in France, GENCI has developed Jean Zay, a supercomputer installed at IDRIS (CNRS, Orsay). In this presentation, we will discuss some broad aspects of Jean Zay for computational scientists and illustrate them with a personal journey."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
