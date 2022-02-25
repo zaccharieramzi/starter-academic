@@ -6,7 +6,7 @@ title: Zaccharie Ramzi
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Deep Learning for MRI reconstruction
+role: Postdoc Researcher in Deep Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,9 @@ organizations:
   url: http://www.cosmostat.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
+bio: I am a Postdoc Researcher interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
+
+I did my PhD under the supervision of [Philippe Ciuciu](https://philippeciuciu.fr/) and [Jean-Luc Starck](http://jstarck.cosmostat.org/) at [NeuroSpin](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [Inria - Parietal](https://team.inria.fr/parietal/) and [Cosmostat](http://www.cosmostat.org/).
 
 # Interests to show in About widget
 interests:
@@ -75,7 +77,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student working on designing Deep Learning models for MRI reconstruction. I work in 3 teams: Parietal (Inria), NeuroSpin and Cosmostat (CEA).
+I am a Postdoc Researcher in Deep Learning. Starting April 2022, I will be joining Gabriel Peyré at ENS Ulm (CNRS).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
