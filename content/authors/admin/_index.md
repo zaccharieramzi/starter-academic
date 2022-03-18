@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence (prepared)
+  - course: PhD in Artificial Intelligence
     institution: CEA & Inria
     year: 2022
   - course: MSc in Mathematics, Vision and Machine Learning (MVA)
