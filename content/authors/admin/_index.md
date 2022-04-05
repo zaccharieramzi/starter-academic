@@ -77,7 +77,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoc Researcher in Deep Learning. Starting April 2022, I will be joining Gabriel Peyré at ENS Ulm (CNRS).
+I am a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
