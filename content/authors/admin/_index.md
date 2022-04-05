@@ -78,6 +78,7 @@ highlight_name: true
 ---
 
 I am a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
+I obtained my PhD in deep learning for MRI reconstruction under the supervision of Philippe Ciuciu and Jean-Luc Starck at Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
