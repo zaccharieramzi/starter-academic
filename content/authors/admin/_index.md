@@ -82,3 +82,5 @@ I obtained my PhD in deep learning for MRI reconstruction under the supervision 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< ref "https://tel.archives-ouvertes.fr/tel-03623570/document" "newtab" >}}PhD thesis manuscript{{< /ref >}}.
