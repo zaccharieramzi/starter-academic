@@ -10,5 +10,8 @@ publication: "*Applied Sciences (Switzerland)*"
 tags: ["deep learning", "fastmri", "image reconstruction", "mri", "neural networks", "oasis"]
 url_pdf: "https://www.mdpi.com/2076-3417/10/5/1816"
 doi: "10.3390/app10051816"
+links:
+    - name: Code
+      url: "https://github.com/zaccharieramzi/fastmri-reproducible-benchmark"
 ---
 

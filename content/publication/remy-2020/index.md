@@ -8,5 +8,8 @@ abstract: "The Dark Matter present in the Large-Scale Structure of the Universe 
 featured: false
 publication: "*NeurIPS 2020 Machine Learning for Physical sciences workshop*"
 url_pdf: "http://arxiv.org/abs/2011.08271"
+links:
+    - name: Code
+      url: "https://github.com/b-remy/score-estimation-comparison"
 ---
 

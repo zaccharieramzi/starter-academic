@@ -8,5 +8,8 @@ abstract: "The next round of the fastMRI reconstruction challenge took place, th
 featured: false
 publication: "*ISMRM*"
 url_pdf: "http://arxiv.org/abs/1811.08839"
+links:
+    - name: Leaderboard
+      url: "https://fastmri.org/leaderboards/challenge/"
 ---
 

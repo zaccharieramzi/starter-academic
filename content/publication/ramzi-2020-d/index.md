@@ -8,5 +8,8 @@ abstract: "We present a new neural network, the XPDNet, for MRI reconstruction f
 featured: false
 publication: "*ISMRM*"
 url_pdf: "http://arxiv.org/abs/2010.07290"
+links:
+    - name: Code
+      url: "https://github.com/zaccharieramzi/fastmri-reproducible-benchmark"
 ---
 

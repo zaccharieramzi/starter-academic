@@ -8,5 +8,10 @@ abstract: "Deep Learning has become a very promising avenue for magnetic resonan
 featured: false
 publication: ""
 url_pdf: "https://hal.inria.fr/hal-03188997"
+links:
+    - name: tfkbnufft
+      url: "https://github.com/zaccharieramzi/tfkbnufft"
+    - name: Code
+      url: "https://github.com/zaccharieramzi/fastmri-reproducible-benchmark"
 ---
 
