@@ -10,5 +10,8 @@ publication: "*IEEE Transactions on Medical Imaging*"
 tags: ["challenge", "compressed sensing", "fast imaging", "mr image reconstruction", "machine learning", "optimization", "parallel imaging", "public data set"]
 url_pdf: "https://arxiv.org/abs/2012.06318"
 doi: "10.1109/TMI.2021.3075856"
+links:
+    - name: Leaderboard
+      url: "https://fastmri.org/leaderboards/challenge/"
 ---
 

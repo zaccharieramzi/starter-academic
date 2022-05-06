@@ -6,7 +6,7 @@ authors: ["Zaccharie Ramzi", "Philippe Ciuciu", "Jean-Luc Starck"]
 publication_types: ["1"]
 abstract: "We present a new neural network, the XPDNet, for MRI reconstruction from periodically under-sampled multi-coil data. We inform the design of this network by taking best practices from MRI reconstruction and computer vision. We show that this network can achieve state-of-the-art reconstruction results, as shown by its ranking of second in the fastMRI 2020 challenge."
 featured: false
-publication: "*ISMRM*"
+publication: "*ISMRM* (Oral)"
 url_pdf: "http://arxiv.org/abs/2010.07290"
 links:
     - name: Code
