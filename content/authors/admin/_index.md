@@ -10,12 +10,10 @@ role: Postdoc Researcher in Deep Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: NeuroSpin - CEA
-  url: https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx
-- name: Parietal - Inria
-  url: https://team.inria.fr/parietal/
-- name: Cosmostat - CEA
-  url: http://www.cosmostat.org/
+- name: CSD - ENS Ulm
+  url: https://csd.ens.psl.eu/
+- name: CNRS
+  url: https://www.cnrs.fr/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: "I am a Postdoc Researcher interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
