@@ -26,6 +26,9 @@ experience:
     company: CNRS & ENS Ulm
     location: Paris, France
     date_start: '2022-04-01'
+    description: |2-
+        * Working on the understanding and improvement of Deep Equilibrium Models
+        * Working on Benchopt, a benchmarking framework for optimization algorithms
   - title: PhD Student
     company: CEA & Inria
     location: Paris, France
