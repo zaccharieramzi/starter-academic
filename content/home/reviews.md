@@ -12,6 +12,7 @@ I have peer-reviewed for the following conferences:
   - [Eusipco 2020](https://eusipco2020.org/)
   - [Eusipco 2021](https://eusipco2021.org/)
   - NeurIPS 2022
+  - ICML 2023
 
 I have peer-reviewed for the following journals:
   - [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
@@ -20,3 +21,4 @@ I have peer-reviewed for the following journals:
   - [NeuroImage](https://www.journals.elsevier.com/neuroimage)
   - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
   - [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+  - [SIAM Mathematics of Data Science](https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods)
