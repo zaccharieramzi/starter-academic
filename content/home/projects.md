@@ -35,6 +35,8 @@ content:
     tag: MRI
   - name: Challenges
     tag: Challenges
+  - name: HPC
+    tag: HPC
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
