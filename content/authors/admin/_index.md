@@ -66,7 +66,7 @@ social:
   link: https://stackoverflow.com/users/4332585/zaccharie-ramzi
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/resume_ramzi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -79,6 +79,6 @@ I am a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
 I obtained my PhD in deep learning for MRI reconstruction under the supervision of Philippe Ciuciu and Jean-Luc Starck at Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_ramzi.pdf" "newtab" >}}résumé{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my [PhD thesis manuscript](https://tel.archives-ouvertes.fr/tel-03623570/document).
