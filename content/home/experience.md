@@ -40,7 +40,7 @@ experience:
         * Co-founded a lecture group focused on Deep Learning for students at NeuroSpin.
         * Analyzed and benchmarked the state-of-the-art in Deep Learning for MRI reconstruction.
         * Published 18 papers/abstracts in international peer-reviewed conferences/workshops/journals, among which **IEEE TMI** and **ICLR** (spotlight).
-        * Co-supervised 2 interns: [Sophie Starck](https://www.cosmostat.org/people/sophie-starck) on the topic of GANs for reconstruction, and [Kevin Michalewicz](https://www.cosmostat.org/people/kevin-michalewicz) on the follow-up of my work on Learnlets.
+        * Co-supervised 2 interns: [Sophie Starck](https://aim-lab.io/author/sophie-starck/) on the topic of GANs for reconstruction, and [Kevin Michalewicz](https://kevinmichalewicz.com/) on the follow-up of my work on Learnlets.
         * Peer-reviewed 19 submissions for scientific conferences and journals.
 
   - title: Data Scientist
