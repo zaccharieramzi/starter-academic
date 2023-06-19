@@ -13,6 +13,7 @@ I have peer-reviewed for the following conferences:
   - [Eusipco 2021](https://eusipco2021.org/)
   - NeurIPS 2022
   - ICML 2023
+  - NeurIPS 2023
 
 I have peer-reviewed for the following journals:
   - [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
