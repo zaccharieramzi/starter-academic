@@ -6,17 +6,17 @@ title: Zaccharie Ramzi
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Researcher in Deep Learning
+role: AI Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CSD - ENS Ulm
-  url: https://csd.ens.psl.eu/
-- name: CNRS
-  url: https://www.cnrs.fr/en
+- name: Meta
+  url: https://about.meta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am a Postdoc Researcher interested in all things Deep Learning, Computer Vision and AI for Healthcare and the greater good.
+bio: "I am an AI Research Scientist working on neural interfaces with [Alex Gramfort](https://alexandre.gramfort.net/).
+
+I was a Postdoc Researcher working with [Gabriel Peyré](http://www.gpeyre.com/).
 
 I did my PhD under the supervision of [Philippe Ciuciu](https://philippeciuciu.fr/) and [Jean-Luc Starck](http://jstarck.cosmostat.org/) at [NeuroSpin](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [Inria - Parietal](https://team.inria.fr/parietal/) and [Cosmostat](http://www.cosmostat.org/)."
 
@@ -75,7 +75,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
+I am a Research Scientist at Meta in the team of Alex Gamfort.
+I was a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
 I obtained my PhD in deep learning for MRI reconstruction under the supervision of Philippe Ciuciu and Jean-Luc Starck at Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
 
