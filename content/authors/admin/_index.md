@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Research Scientist at Meta in the team of Alex Gamfort.
+I am a Research Scientist at Meta in the team of Alex Gramfort.
 I was a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
 I obtained my PhD in deep learning for MRI reconstruction under the supervision of Philippe Ciuciu and Jean-Luc Starck at Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
