@@ -22,10 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'AI Scientist'
+    company: Mistral AI
+    location: Paris, France
+    date_start: '2025-09-01'
+    description: |2-
+        * Model alignment
   - title: 'AI Research Scientist: Neural interfaces'
     company: Meta
     location: Paris, France
-    date_start: '2022-09-11'
+    date_start: '2023-09-11'
+    date_start: '2025-08-29'
     description: |2-
         * Understanding the EMG
   - title: Postdoc Researcher in Deep Learning

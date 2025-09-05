@@ -6,15 +6,17 @@ title: Zaccharie Ramzi
 superuser: true
 
 # Role/position/tagline
-role: AI Research Scientist
+role: AI Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Meta
-  url: https://about.meta.com/
+- name: Mistral AI
+  url: https://mistral.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am an AI Research Scientist working on neural interfaces with [Alex Gramfort](https://alexandre.gramfort.net/).
+bio: "I am an AI Scientist at Mistral AI, working in the alignment team.
+
+I was an AI Research Scientist working on neural interfaces with [Alex Gramfort](https://alexandre.gramfort.net/).
 
 I was a Postdoc Researcher working with [Gabriel Peyré](http://www.gpeyre.com/).
 
@@ -75,7 +77,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a Research Scientist at Meta in the team of Alex Gramfort.
+I am an AI Scientist at Mistral AI, working in the alignment team.
+
+I was an AI Research Scientist working on neural interfaces with Alex Gramfort.
 I was a Postdoc Researcher supervised by Gabriel Peyré at ENS Ulm (CNRS).
 I obtained my PhD in deep learning for MRI reconstruction under the supervision of Philippe Ciuciu and Jean-Luc Starck at Parietal (Inria), NeuroSpin and Cosmostat (CEA).
 
