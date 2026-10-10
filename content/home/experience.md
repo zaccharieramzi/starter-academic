@@ -24,15 +24,17 @@ date_format: Jan 2006
 experience:
   - title: 'AI Scientist'
     company: Mistral AI
+    company_url: 'https://mistral.ai/'
     location: Paris, France
     date_start: '2025-09-01'
     description: |2-
-        * Model alignment
+        * Alignment
   - title: 'AI Research Scientist: Neural interfaces'
     company: Meta
+    company_url: 'https://meta.com/'
     location: Paris, France
     date_start: '2023-09-11'
-    date_start: '2025-08-29'
+    date_end: '2025-08-29'
     description: |2-
         * Understanding the EMG
   - title: Postdoc Researcher in Deep Learning
